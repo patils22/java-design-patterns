@@ -31,9 +31,7 @@ public class App {
         System.out.println(shop1 + ":" + shop1.hashCode());
         System.out.println(shop2 + ":" + shop2.hashCode());
     }
-    
-    
-    
+        
 }
 
 // line added 
